@@ -1,9 +1,9 @@
 # New-World-Music-Bot
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 
-Video Explainer - [https://github.com/RootKit-Org/New-World-Music-Bot](https://www.youtube.com/shorts/RAKhSsX7Eyg)
+[Video Explainer](https://www.youtube.com/shorts/RAKhSsX7Eyg)
 
-Join teh Discord - https://discord.gg/rootkitorg
+[Join teh Discord](https://discord.gg/rootkitorg)
 
 ### Known Features
 - Works out of the box when being ran at 1920x1080
